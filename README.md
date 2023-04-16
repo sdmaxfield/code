@@ -1,2 +1,2 @@
 # code
-compilation of python code
+compilation of project code
